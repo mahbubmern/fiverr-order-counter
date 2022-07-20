@@ -1,0 +1,26 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.card {
+	position: absolute;
+	left: 50%;
+	top: 30%;
+	transform: translate(-50%, -50%);
+	background-color: black;
+	color: rgb(186, 186, 186);
+}
+.card h5 {
+	color: rgb(171, 194, 115);
+}
+.fiverr {
+	display: flex;
+	gap: 15px;
+}
+.time h1 {
+	font-size: 18px;
+	text-align: center;
+	font-weight: 600;
+}
